@@ -1,0 +1,1 @@
+In proiectul atasat am folosit 2 design patterns, factory design pattern si iterator. Cu ajutorul factory design pattern am implementat doua instante numite Container si Iterator cu care am definit metodele folosite in clasa CarManufacturerRepository. Cu ajutorul iteratorului am parcurs lista de branduri auto si le-am afisat in ordinea in care apar in aceasta, unul cate unul.
